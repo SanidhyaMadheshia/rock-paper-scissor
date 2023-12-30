@@ -1,0 +1,45 @@
+body{
+    background-color: yellowgreen
+}
+.rps{
+    background-color: yellowgreen;
+    font-size: 2rem;
+    align-items: center;
+    
+    
+
+}
+.title{
+    text-align: center;
+    background-color: beige;
+    margin-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+.ropasc{
+    display : flex;
+    justify-content: space-evenly;
+    padding-bottom: 100px;
+}
+button{
+    font-size: larger;
+    background-color: beige;
+    border-radius: 10%;
+
+}
+.times{
+    margin-top: -50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.update{
+    text-align: center;
+    margin-bottom: -30px;
+}
+.para{
+    text-align: center;
+}
+
+
+
